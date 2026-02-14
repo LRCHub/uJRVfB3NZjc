@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "soundless",
+  "base_artist": "声にならないよ",
+  "createdAt": "2026-02-14T15:48:06.790473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soundless Bye",
+      "artist": "Nah Youn Sun",
+      "has_synced": true,
+      "path": "select/01_Soundless_Bye_Nah_Youn_Sun.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soundless",
+      "artist": "DEMONDICE",
+      "has_synced": true,
+      "path": "select/02_Soundless_DEMONDICE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soundless Bye",
+      "artist": "Youn Sun Nah",
+      "has_synced": true,
+      "path": "select/03_Soundless_Bye_Youn_Sun_Nah.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Soundless Pain",
+      "artist": "Illogicist",
+      "has_synced": false,
+      "path": "select/04_Soundless_Pain_Illogicist.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soundless Sea",
+      "artist": "Waterstrider",
+      "has_synced": false,
+      "path": "select/05_Soundless_Sea_Waterstrider.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "soundless voice",
+      "artist": "yama△, HitoshizukuP",
+      "has_synced": false,
+      "path": "select/06_soundless_voice_yama△,_HitoshizukuP.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cold And Soundless",
+      "artist": "Thormesis",
+      "has_synced": false,
+      "path": "select/07_Cold_And_Soundless_Thormesis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soundless Bye",
+      "artist": "나윤선",
+      "has_synced": true,
+      "path": "select/08_Soundless_Bye_나윤선.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "soundless",
+      "artist": "声にならないよ",
+      "has_synced": false,
+      "path": "select/pl_01_soundless_声にならないよ.txt"
+    }
+  ]
+}
